@@ -23,20 +23,20 @@ author:
   # Biographic information
   avatar: "profile.png"
   name: "Natch Soros"
-  pronouns: # example: "she/her"
-  bio: "Short biography for the left-hand sidebar"
+  pronouns: "she/her"
+  bio: "Computer Engineering Year 4, KMUTT | UI Designer, UX Research, Market Research | 2025 Graduation"
   location: "Earth"
   employer: "Red Brick University"
   uri: # URL
-  email: "none@example.org"
+  email: "ruedhaidham16@gmail.com"
 
   # Academic websites
   arxiv: # URL - Update with the correct link to your profile
-  googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar: # URL
   impactstory: # URL
-  orcid: "http://orcid.org/yourorcidurl"
+  orcid: # URL
   semantic: # URL
-  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed: # URL
   researchgate: # URL
   scopus: # URL
 
@@ -44,23 +44,23 @@ author:
   bitbucket: # Username - Update with your username on the site
   codepen: # Username
   dribbble: # Username
-  github: "academicpages"
+  github: "github.com/natch-ptc"
   kaggle: # Username
   stackoverflow: # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
-  bluesky: "bsky.app" # Replace this with you Bluesky username
-  facebook: # Username
+  bluesky: # Username # Replace this with you Bluesky username
+  facebook: "facebook.com/ruedhaidham.soros.9"
   flickr: # Username
   foursquare: # Username
   goodreads: # Username
   google_plus: # Username
   keybase: # Username
-  instagram: # Username
+  instagram: "instagram.com/natch_ptc"
   lastfm: # Username
-  linkedin: # Username
+  linkedin: "linkedin.com/in/rsoros"
   mastodon: # URL
-  medium: # URL
+  medium: "medium.com/@natch.ptc"
   pinterest: # Username
   soundcloud: # Username
   steam: # Username
@@ -71,7 +71,7 @@ author:
   weibo: # Username
   wikipedia: # Username
   xing: # Username
-  youtube: # Username
+  youtube: "youtube.com/@natch-ptc"
   zhihu: # Username
 
 # Publication Category - The following the list of publication categories and their headings
