@@ -6,10 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Ruedhaidham Soros  
+# Natch - Ruedhaidham Soros  
 **Entrepreneur | Market Researcher | UX Enthusiast | Innovator**  
 
-Hey there! I'm Ruedhaidham, a **Computer Engineering student at KMUTT** with a passion for **entrepreneurship, UX/UI, and market research**. I love solving problems, whether it’s through **tech, design, or business strategy**.  
+Hey there! I'm Natch, a **Computer Engineering student at KMUTT** with a passion for **entrepreneurship, UX/UI, and market research**. I love solving problems, whether it’s through **tech, design, or business strategy**.  
 
 ## 🚀 About Me  
 I thrive in **multidisciplinary environments**, working on projects that blend **technology, innovation, and business insights**. From conducting **market research for startups** to developing **AI-driven solutions**, I enjoy exploring the intersection of tech and real-world impact.  
